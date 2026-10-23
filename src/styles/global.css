@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+.box{
+    width: 200;
+    height: 200;
+    padding: 10px;
+    
+}
+
+:root{
+    --color-purple900: #10002B;
+    --color-purple800: #240046;
+    --color-purple700: #3C096C;
+    --color-purple600: #7B2CBF;
+    --color-purple500: #7B2CBF;
+    --color-purple400: #9D4EDD;
+    --color-purple300: #C77DFF;
+
+}
